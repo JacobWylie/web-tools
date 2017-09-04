@@ -2,13 +2,13 @@
 
 ### Javascript libraries
 
-#### Particles.js 
+**Particles.js** ( [Site](https://www.google.com) )( [Github](https://www.google.com) )
 A library for creating beautiful floating particles on a web page
-[Site](https://www.google.com) [Github](https://www.google.com)
 
-#### Three.js
+
+**Three.js** ( [Site](https://www.google.com) )( [Github](https://www.google.com) )
 A library for creating 3d objects and spaces on a web page
-[Site](https://www.google.com) [Github](https://www.google.com)
+
 
 #### Fullpage.js — Easy to implement full page scroll feature
 #### Typed.js — Typewriter effect
