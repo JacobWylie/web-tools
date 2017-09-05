@@ -87,7 +87,7 @@ A library for making drawing animation on SVG
 <hr>
 
 **Wow.js** ([Site](http://mynameismatthieu.com/WOW/))([Github](https://github.com/matthieua/WOW))
- 
+
 Reveal animations when you scroll
 
 <hr>
