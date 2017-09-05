@@ -6,23 +6,35 @@
 
 A library for creating beautiful floating particles on a web page
 
+<hr>
+
 **Three.js** ([Site](https://threejs.org/))([Github](https://github.com/mrdoob/three.js/))
 
 A library for creating 3d objects and spaces on a web page
+
+<hr>
 
 **Fullpage.js** ([Site](https://alvarotrigo.com/fullPage/#firstPage))([Github](https://github.com/alvarotrigo/fullPage.js))
 
 Easy to implement full page scroll feature
 
+<hr>
+
 **Typed.js** ([Site](http://www.mattboldt.com/demos/typed-js/))([Github](https://github.com/mattboldt/typed.js/))
 
 Typewriter effect
 
+<hr>
+
 **Waypoints.js** ([Site](http://imakewebthings.com/waypoints/))([Github](https://github.com/imakewebthings/waypoints)) — 
 Trigger a function when you scroll to an element
 
+<hr>
+
 **Highlight.js** ([Site](https://highlightjs.org/))([Github](https://github.com/isagalaev/highlight.js/)) — 
 Syntax highlighting for the web
+
+<hr>
 
 **Chart.js** ([Site](http://www.chartjs.org/))([Github](https://github.com/chartjs/Chart.js))
 
