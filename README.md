@@ -75,7 +75,7 @@ Fluid page transitions
 <hr>
 
 **TwentyTwenty** ([Site](http://zurb.com/playground/twentytwenty))([Github](https://github.com/zurb/twentytwenty))
- 
+
 A visual diff tool to spot differences
 
 <hr>
@@ -99,7 +99,7 @@ See how much you have scrolled untill the end of the page
 <hr>
 
 **Velocity.js** ([Site](http://velocityjs.org/))([Github](https://github.com/julianshapiro/velocity))
- 
+
 Very fast and smooth javascript animations
 
 <hr>
@@ -261,13 +261,13 @@ Jquery replacement for select boxes
 <hr>
 
 **IziToast** ([Site](http://izitoast.marcelodolce.com/))([Github](https://github.com/dolce/iziToast))
- 
+
 Easy to implement js notifications
 
 <hr>
 
 **IziModal** ([Site](http://izimodal.marcelodolce.com/))([Github](https://github.com/dolce/iziModal))
- 
+
 Easy to implement js modals
 
 <hr>
@@ -335,7 +335,7 @@ Collection of css spinners
 <hr>
 
 **Feather Icons** ([Site](https://feathericons.com/))([Github](https://github.com/colebemis/feather))
- 
+
 Icons
 
 <hr>
